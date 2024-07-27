@@ -5,3 +5,12 @@
 body{
     
 }
+
+.main{
+    filter: blur(3px);
+}
+
+
+#bg{
+    width:100%;
+}
