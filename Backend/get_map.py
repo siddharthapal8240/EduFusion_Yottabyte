@@ -45,7 +45,7 @@ while True:
 
     cv2.imshow("Original Image ", img)
     cv2.setMouseCallback("Original Image ", mousePoints)
-    cv2.waitKey(0)
+    cv2.waitKey(1)
 
 cap.release()
 cv2.destroyAllWindows()
