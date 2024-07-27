@@ -42,3 +42,51 @@ body, html {
     padding: 20px;
     text-align: center;
   }
+  .nav-item:hover{
+    background-color: orange;
+    border: 2px solid #73AD21;
+  }
+  .card {
+    width: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    box-sizing: 0 0 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: transform 0.4s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+.card {
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+  box-sizing: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: transform 0.4s ease;
+}
+.container {
+  display: flex;
+  gap: 30px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  object-fit: cover;
+}
+
+.profile p {
+  margin-top: 10px;
+  font-size: 18px;
+}
