@@ -36,7 +36,6 @@ while True:
         fileObj.close()
         print("Points saved to file: map.p")
 
-
         imgOutput, matrix = warp_image(img, points)
         cv2.imshow("Output Image ", imgOutput)
 
