@@ -1,4 +1,5 @@
 <h1 align="center"> EduFusion - Where learning meets exploration </h1>
+
 <center>
 Promoting Quality Education through Interactive Knowledge Visualization and Advanced Insights
 <h2>Made with ❤ by Team Yottabyte <br> @ INNOFUSION 1.0</h2>
