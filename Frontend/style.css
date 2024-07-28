@@ -55,7 +55,8 @@ body, html {
   }*/
   h1{
     text-align: center;
-    color: rgb(57, 204, 57);
+    color: #8dba11;
+    text-shadow: 5px 5px 3px #0f100f;
     padding: 2rem;
   }
   
@@ -74,6 +75,10 @@ body, html {
     margin: 0;
     padding: 0.9rem 0;
   }
+
+#navbarNav{
+  padding-left: 1.3rem;
+}
   .nav-item:hover{
     background-color: orange;
     border: 2px solid #73AD21;
@@ -82,6 +87,7 @@ body, html {
   #calibrate {
     display: block;
     margin: 0 auto;
+    /* color: rgb(13, 245, 75); */
   }
 .button2 button {
     margin-right: 0;
@@ -94,7 +100,7 @@ body, html {
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-    padding: 5rem;
+    padding: 2.5rem;
     padding-top: 2rem;
   }
   .button2 button:first-child {
@@ -125,6 +131,13 @@ body, html {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   transition: transform 0.4s ease;
 }
+
+h2{
+  text-align: center;
+    color: #8dba11;
+    text-shadow: 5px 5px 3px #0f100f;
+    padding: 2.5rem;
+}
 .container {
   margin-bottom: auto;
   display: flex;
@@ -148,4 +161,6 @@ body, html {
 .profile p {
   margin-top: 10px;
   font-size: 18px;
+  color: white;
 }
+
