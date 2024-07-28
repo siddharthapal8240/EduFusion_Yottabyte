@@ -4,10 +4,10 @@ import cvzone
 import numpy as np
 from cvzone.HandTrackingModule import HandDetector
 
-cam_id = 0
+cam_id =0
 width, height = 1920, 1080
 map_file_path = "../GetCornerPoints/map.p"
-countries_file_path = "../Get_Country_Polygons/countries.p"
+countries_file_path = "../Get_Country_Polygon/countries.p"
 
 file_obj = open(map_file_path, 'rb')
 map_points = pickle.load(file_obj)
