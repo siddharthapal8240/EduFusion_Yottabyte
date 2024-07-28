@@ -9,10 +9,10 @@ We, team Yottabyte, would like to extend our gratitude to the organizers of INNO
 Special thanks to the developers of Python, OpenCV, Flask, HTML, CSS, JavaScript, jQuery, Bootstrap, GitHub, and pytest for their invaluable contributions to the technologies that powered our project. <br>
 Last but not least, we appreciate the collaborative efforts of our team members who dedicated their time and skills to bring EduFusion to fruition during the intense 30-hour hackathon.
 
-## Theme
+## Theme ⚙
 Quality Education
 
-## Domain
+## Domain 📡
 Web and App Development
 
 ## Problem ✒
