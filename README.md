@@ -1,8 +1,6 @@
 <h1 align="center"> EduFusion - Where learning meets exploration </h1>
 
-<center>
-Promoting Quality Education through Interactive Knowledge Visualization and Advanced Insights 
-</center>
+<p align="center">Promoting Quality Education through Interactive Knowledge Visualization and Advanced Insights</p>
 
 <h2 align="center">Made with ❤ by Team Yottabyte <br> @ INNOFUSION 1.0</h2>
 
