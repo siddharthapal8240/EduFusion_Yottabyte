@@ -3,9 +3,8 @@
 <center>
 Promoting Quality Education through Interactive Knowledge Visualization and Advanced Insights 
 </center>
-<center>
-<h2>Made with ❤ by Team Yottabyte <br> @ INNOFUSION 1.0</h2>
-</center>
+
+<h2 align="center">Made with ❤ by Team Yottabyte <br> @ INNOFUSION 1.0</h2>
 
 ## Acknowledgement 🙏
 We, team Yottabyte, would like to extend our gratitude to the organizers of INNOFUSION for providing us with the opportunity to participate in the hackathon and showcase our project, EduFusion. <br> 
