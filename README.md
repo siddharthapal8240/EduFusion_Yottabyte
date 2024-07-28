@@ -1,4 +1,4 @@
-<h1 align="center"> EduFusion </h1>
+<h1 align="center"> EduFusion - Where learning meets exploration </h1>
 <center>
 Promoting Quality Education through Interactive Knowledge Visualization and Advanced Insights
 <h2>Made with ❤ by Team Yottabyte <br> @ INNOFUSION 1.0</h2>
@@ -20,7 +20,7 @@ Traditional education lacks interactive tools, resulting in disengagement and li
 
 ## Solution 🏆
 EduFusion addresses this problem by offering an interactive learning platform where users can physically interact with a map, explore countries, and engage in educational games. By integrating physical touch with digital technology, EduFusion provides a hands-on approach to learning geography, fostering deeper understanding and retention of geographical knowledge.
-![Alt Text](pro.jpg)
+![Alt Text](demo.jpg)
 
 ## Introduction to EduFusion 💥
 EduFusion: an interactive educational tool revolutionizing geography exploration. Seamlessly blending physical and digital interaction, users touch a physical map to trigger digital responses, fostering hands-on exploration of countries, continents, and geographic features. Ideal for students, educators, and geography enthusiasts, EduFusion enhances learning experiences with engaging activities and games. Whether deepening understanding, enhancing classroom instruction, or satisfying curiosity, EduFusion offers an immersive solution. Join us on this journey as we navigate the world's wonders, one touch at a time.
